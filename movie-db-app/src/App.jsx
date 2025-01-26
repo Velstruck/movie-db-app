@@ -1,20 +1,11 @@
-import { useState } from 'react'
+import React from 'react'
 
-const Card = ({title})=>{
-  return(
-    <div className='card'>
-       <h2>
-        {title}
-       </h2>
-    </div>
-  )
-}
-const App = () =>{
+const App = () => {
   return (
-    <div className='card-container'>
-      <Card title="Star Wars"/>
-      <Card title="Avatar"/>
-      <Card title="Inception"/>
+    <div>
+      <h1 class="text-3xl font-bold underline">
+        Hello world!
+      </h1>
     </div>
   )
 }
