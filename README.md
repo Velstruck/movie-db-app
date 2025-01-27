@@ -1,5 +1,5 @@
-# Movie DB App
-
+# MovieUrge App
+Check out at [here](https://movieurge.netlify.app/)
 This project is a movie database application built using React. It allows users to search for movies, view movie details, and see trending movies. The application leverages several technologies and APIs to provide a rich user experience.
 
 ## Technologies Used
